@@ -2,7 +2,7 @@
 CSS Theme for [/r/Spongebros](https://www.reddit.com/r/Spongebros/) on Reddit.
 
 
-<img src = "images/theme.png">
+<img src = "images/theme.PNG">
 
 # Contribute
 
