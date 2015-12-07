@@ -1,0 +1,6 @@
+- Added new banner with dank memes.
+- Pushed content page down (240px).
+- Change background color to a bit more darker color.
+- Changed color of link flairs
+- Added text-shadow on menu items to be more legible.
+- Made CSS cleaner by pushing it to the left. (Naut theme has it all pushed to the right)
