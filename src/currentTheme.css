@@ -1,4 +1,4 @@
-/*Spongebros Theme Version 1.0.3
+/*Spongebros Theme Version 1.0.3.1
 Base Theme - Naut Theme https://github.com/Axel--/Naut-for-reddit
 Modifications - /u/HappyZombies
 Contribute here - https://github.com/HappyZombies/SpongeBros-Theme
@@ -3535,15 +3535,14 @@ html:lang(ot) .link:not(.linkflair-other) {
 }
 .thumbnail.self {
     height: 60px;
-    background-image: url(%%pinhead_transparent%%);
+    background-image: url(%%pinhead-transparent%%);
     background-position: 3px 0px;
     background-repeat: no-repeat;
 }
 .stickied .thumbnail {
     height: 50px;
     width: 50px;
-    background-image: url(%%hoopla_transparent%%);
+    background-image: url(%%hoopla-transparent%%);
     background-position: 0px 0px;
     background-repeat: no-repeat;
-    border: 1px solid black;
 }
