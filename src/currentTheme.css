@@ -3535,14 +3535,14 @@ html:lang(ot) .link:not(.linkflair-other) {
 }
 .thumbnail.self {
     height: 60px;
-    background-image: url(%%pin%%);
+    background-image: url(%%pinhead_transparent%%);
     background-position: 3px 0px;
     background-repeat: no-repeat;
 }
 .stickied .thumbnail {
     height: 50px;
     width: 50px;
-    background-image: url(%%hoopla%%);
+    background-image: url(%%hoopla_transparent%%);
     background-position: 0px 0px;
     background-repeat: no-repeat;
     border: 1px solid black;

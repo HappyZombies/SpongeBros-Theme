@@ -1,6 +1,12 @@
+1.0.2
 - Added new banner with dank memes.
 - Pushed content page down (240px).
 - Change background color to a bit more darker color.
 - Changed color of link flairs
 - Added text-shadow on menu items to be more legible.
 - Made CSS cleaner by pushing it to the left. (Naut theme has it all pushed to the right)
+
+1.0.3
+- Took screencaps from SpongeBob DVD. Cleaned up screencaps, removed background, made transparent.
+- Replaced Pin.png with pinhead_transparent.png
+- Replaced Pin.png with hoopla_transparent.png
