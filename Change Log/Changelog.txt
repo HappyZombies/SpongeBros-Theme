@@ -15,3 +15,4 @@
 - Removed border from sticky posts.
 
 1.0.4
+- Added RIP Project M user Flair. 

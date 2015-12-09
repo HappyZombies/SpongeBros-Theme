@@ -1,4 +1,4 @@
-/*Spongebros Theme Version 1.0.3.1
+/*Spongebros Theme Version 1.0.4
 Base Theme - Naut Theme https://github.com/Axel--/Naut-for-reddit
 Modifications - /u/HappyZombies
 Contribute here - https://github.com/HappyZombies/SpongeBros-Theme
@@ -3446,6 +3446,11 @@ body>.content {
 }
 .flair-ripRidley {
     background-position: -18px -2572px;
+    width: 32px;
+    height: 35px;
+}
+.flair-ripPM {
+    background-position: -7px -2628px;
     width: 32px;
     height: 35px;
 }
