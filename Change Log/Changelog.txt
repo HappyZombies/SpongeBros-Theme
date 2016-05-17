@@ -10,3 +10,9 @@
 - Took screencaps from SpongeBob DVD. Cleaned up screencaps, removed background, made transparent.
 - Replaced Pin.png with pinhead_transparent.png
 - Replaced Pin.png with hoopla_transparent.png
+
+1.0.3.1
+- Removed border from sticky posts.
+
+1.0.4
+- Added RIP Project M user Flair. 
